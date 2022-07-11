@@ -1,0 +1,5 @@
+{
+    "classification": true,
+    "name_model": "xgb",
+    "dict_params": {}
+}
